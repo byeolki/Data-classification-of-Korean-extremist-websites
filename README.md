@@ -4,19 +4,16 @@
 - Number Of Train-Data And Valid-Data : 1600
 - Number Of Test-Data : 400
 - Data Source : https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean
-<br>
 ![image](https://github.com/byeolki/Data-classification-of-Korean-extremist-websites/assets/97008863/c0b6de71-c2c2-42ea-b9e3-36e367c1dfb1)
 
 ## 💻 Model Info
 - Model Used : Bert
 - Number Of Learning : 4 epochs
-<br>
 ![image](https://github.com/byeolki/Data-classification-of-Korean-extremist-websites/assets/97008863/39337288-abca-486a-bb6c-f2ea31a5590e)
 
 ## 📊 Result
 - Lowest Loss : 0.01
 - Maximum Accuracy : 0.99
-<br>
 ![image](https://github.com/byeolki/Data-classification-of-Korean-extremist-websites/assets/97008863/336124e7-8124-4541-a9e4-a29593799ab2)
 
 
